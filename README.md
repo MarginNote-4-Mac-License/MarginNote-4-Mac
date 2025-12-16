@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Pro%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://static.macupdate.com/screenshots/214619/m/marginnote-pro-screenshot.png?v=1605543290" width="824" alt="Screenshot"/>
+<img src="https://forum.marginnote.com/uploads/db0738/original/2X/b/b2f109d20023e39c8aa70dc6de5207874b70e0b1.jpeg" width="824" alt="Screenshot"/>
 
 </div>
 
